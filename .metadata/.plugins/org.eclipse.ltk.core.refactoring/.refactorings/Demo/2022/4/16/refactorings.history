@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Checkbox.java&apos; to &apos;SeleniumKT.Checkbox.java&apos;&#x0D;&#x0A;- Original project: &apos;Demo&apos;&#x0D;&#x0A;- Destination element: &apos;SeleniumKT.Checkbox.java&apos;&#x0D;&#x0A;- Original element: &apos;SeleniumKT.Checkbox.java&apos;" description="Copy compilation unit" destination="/src&lt;SeleniumKT{Checkbox.java" element1="/src&lt;SeleniumKT{Checkbox.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1649848020221" units="1" version="1.0"/>
+</session>
